@@ -1,0 +1,16 @@
+<annotation>
+	<image>2007_003169</image>
+	<voc_id>1</voc_id>
+	<category>cat</category>
+	<visible_bounds height="219.00" width="420.00" xmin="54.00" ymin="113.00" />
+	<keypoints>
+		<keypoint name="L_Eye" visible="1" x="344.76" y="194.44" z="0.00" />
+		<keypoint name="R_Eye" visible="1" x="310.79" y="195.61" z="0.00" />
+		<keypoint name="Nose" visible="1" x="339.52" y="224.36" z="0.00" />
+		<keypoint name="L_EarBase" visible="1" x="330.25" y="144.80" z="0.00" />
+		<keypoint name="R_EarBase" visible="1" x="282.44" y="154.35" z="0.00" />
+		<keypoint name="Throat" visible="1" x="281.80" y="243.40" z="0.00" />
+		<keypoint name="Withers" visible="1" x="227.11" y="159.86" z="0.00" />
+		<keypoint name="TailBase" visible="1" x="263.03" y="314.31" z="0.00" />
+	<keypoint name="L_F_Elbow" visible="0" x="0.00" y="0.00" z="0.00" /><keypoint name="R_F_Elbow" visible="0" x="0.00" y="0.00" z="0.00" /><keypoint name="L_F_Paw" visible="0" x="0.00" y="0.00" z="0.00" /><keypoint name="R_F_Paw" visible="0" x="0.00" y="0.00" z="0.00" /><keypoint name="L_B_Paw" visible="0" x="0.00" y="0.00" z="0.00" /><keypoint name="R_B_Paw" visible="0" x="0.00" y="0.00" z="0.00" /><keypoint name="L_B_Elbow" visible="0" x="0.00" y="0.00" z="0.00" /><keypoint name="R_B_Elbow" visible="0" x="0.00" y="0.00" z="0.00" /><keypoint name="L_F_Knee" visible="0" x="0.00" y="0.00" z="0.00" /><keypoint name="R_F_Knee" visible="0" x="0.00" y="0.00" z="0.00" /><keypoint name="L_B_Knee" visible="0" x="0.00" y="0.00" z="0.00" /><keypoint name="R_B_Knee" visible="1" x="325.625" y="292.5" z="0.00" /></keypoints>
+</annotation>
