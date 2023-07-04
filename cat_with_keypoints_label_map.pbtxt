@@ -1,0 +1,81 @@
+item: {
+ id: 1
+ name: 'cat'
+ display_name: 'CAT'
+ keypoints {
+   id: 1
+   label: "l_eye"
+ }
+ keypoints {
+   id: 2
+   label: "r_eye"
+ }
+ keypoints {
+   id: 3
+   label: "l_ear"
+ }
+ keypoints {
+   id: 4
+   label: "r_ear"
+ }
+ keypoints {
+   id: 5
+   label: "nose"
+ }
+  keypoints {
+   id: 6
+   label: "tail"
+ }
+  keypoints {
+   id: 7
+   label: "l_f_elbow"
+ }
+ keypoints {
+   id: 8
+   label: "r_f_elbow"
+ }
+ keypoints {
+   id: 9
+   label: "l_b_elbow"
+ }
+ keypoints {
+   id: 10
+   label: "r_b_elbow"
+ }
+ keypoints {
+   id: 11
+   label: "l_f_knee"
+ }
+ keypoints {
+   id: 12
+   label: "r_f_knee"
+ }
+ keypoints {
+   id: 13
+   label: "l_b_knee"
+ }
+ keypoints {
+   id: 14
+   label: "r_b_knee"
+ }
+ keypoints {
+   id: 15
+   label: "l_f_paw"
+ }
+ keypoints {
+   id: 16
+   label: "r_f_paw"
+ }
+ keypoints {
+   id: 17
+   label: "l_b_paw"
+ }
+ keypoints {
+   id: 18
+   label: "r_b_paw"
+ }
+ keypoints {
+   id: 19
+   label: "withers"
+ }
+}
